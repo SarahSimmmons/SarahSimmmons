@@ -12,6 +12,9 @@ Explored and generated techniques to quantitatively measure which Large Language
 ### Extracurriculars
 📚 I'm currently a member of Tufts NSBE chapter (National Society of Black Engineers) and Tufts BSCS (Black students in computer science). Off campus I'm taking part in the Break Through Tech AI Program at MIT, which has given me the opportunity to expand my skills in Machine Learning and AI. Some other hobbies I have include sketching, reading and dancing!
 
+### Contact Information 
+- [Linkedin](https://www.linkedin.com/in/sarah-simmons1/)
+
 
 <!--
 **SarahSimmmons/SarahSimmmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
