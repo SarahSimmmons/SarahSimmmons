@@ -1,16 +1,16 @@
 ## Hi there 👋🏾
 
-🌱 My name is Sarah Simmons, and I'm a Junior at Tufts University studying Computer Science. I'm passionate about developing my skills in the realms of Machine Learning & AI, Software Engineering and Data Engineering. Feel free to explore my profile!
+🌱 My name is Sarah Simmons, and I'm a Junior at Tufts University studying Computer Science. I'm passionate about developing my skills in Machine Learning and AI, Software Engineering, and Data Engineering. Feel free to explore my profile!
 
 ### Tech Stack
 - Languages: C, C++, Java, Javascript, Python, SQL
 
 ### Key Projects
-#### Dialouge Decoded
-Explored and generated techniques to quantitatively measure which Large Language Models people like best based off real conversation data.
+#### Dialogue Decoded
+Explored and generated techniques to quantitatively measure which large language models people like best based on real conversation data.
 
 ### Extracurriculars
-📚 I'm currently a member of Tufts NSBE chapter (National Society of Black Engineers) and Tufts BSCS (Black students in computer science). Off campus I'm taking part in the Break Through Tech AI Program at MIT, which has given me the opportunity to expand my skills in Machine Learning and AI. Some other hobbies I have include sketching, reading and dancing!
+📚 I'm a member of the Tufts NSBE chapter (National Society of Black Engineers) and Tufts BSCS (Black Students in Computer Science). Off-campus, I'm taking part in the Break Through Tech AI Program at MIT, which has allowed me to expand my skills in Machine Learning and AI. Some other hobbies I have include sketching, reading, and dancing!
 
 ### Contact Information 
 - [Linkedin](https://www.linkedin.com/in/sarah-simmons1/)
